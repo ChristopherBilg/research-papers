@@ -2,7 +2,7 @@
 
 Research Paper Repository
 
-**Note: These research papers are listed in most recent to least recent order by time.
+> Note: These research papers are listed in most recent to least recent order by time.
 
 ## Research Papers (M.S.)
 
